@@ -17,4 +17,5 @@ feature 'Stack Overflow Repuation Data' do
   scenario 'show top 10 lagos fellow +rep users'
   scenario 'show top 10 nairobi fellow +rep users'
   scenario 'show top 10 staff +rep users'
+  scenario 'show godson'
 end

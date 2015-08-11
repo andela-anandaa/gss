@@ -28,6 +28,7 @@ gem "title"
 gem "uglifier"
 
 group :development do
+  gem 'guard-rspec', require: false
   gem "spring"
   gem "spring-commands-rspec"
   gem "web-console"
